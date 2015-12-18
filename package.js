@@ -1,5 +1,5 @@
 Package.describe({
-  name: 'advance-reload',
+  name: 'jwall149:advance-reload',
   version: '0.1.0',
   summary: 'Advance feature for package reload',
   git: 'https://github.com/jwall149/meteor-advance-reload.git'
